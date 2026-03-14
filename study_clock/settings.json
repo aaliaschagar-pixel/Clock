@@ -1,0 +1,11 @@
+{
+  "background_color": "#0d1117",
+  "text_color": "#e6edf3",
+  "accent_color": "#58a6ff",
+  "font_size": 92,
+  "font_family": "Helvetica",
+  "theme": "dark",
+  "background_mode": "animated_gradient",
+  "gradient_animation": true,
+  "sound_volume": 0.5
+}
